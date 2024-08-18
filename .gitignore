@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 .venv/
+venv/
 db.sqlite3/
 build/
 develop-eggs/
